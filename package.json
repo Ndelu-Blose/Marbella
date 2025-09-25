@@ -1,0 +1,21 @@
+{
+  "name": "marbella-restaurant",
+  "version": "1.0.0",
+  "description": "Marbella Restaurant - A fine dining experience with French cuisine",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "restaurant",
+    "french-cuisine",
+    "fine-dining",
+    "marbella"
+  ],
+  "author": "Marbella Restaurant",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
